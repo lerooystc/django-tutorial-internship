@@ -1,0 +1,10 @@
+legend {
+color: DarkSlateBlue;
+font-family: 'Helvetica', 'Arial', sans-serif;
+text-align: center;
+}
+
+.button {
+margin-top: 25px;
+text-align: center;
+}

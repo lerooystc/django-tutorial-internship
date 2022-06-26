@@ -1,0 +1,17 @@
+li a {
+    color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+body {
+    background: white url("images/cat-trapped.gif") no-repeat;
+    background-position: 50% 20%;
+}
